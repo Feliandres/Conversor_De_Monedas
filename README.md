@@ -1,2 +1,2 @@
-# Convertidor_De_Monedas
- convertidor con GUI en JAVA
+# Conversor_De_Monedas
+ conversor de monedas con GUI en JAVA
